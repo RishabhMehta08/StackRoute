@@ -1,0 +1,17 @@
+body
+{
+	margin:auto;
+	width:500px;
+	background-color: #d3d3d3;
+	font:sans-serif;
+}
+
+blockquote
+{
+	border:2px;
+	border-style:solid;
+	border-color:white;
+	margin:auto;
+	text-align:center;
+	padding:4px;
+}
